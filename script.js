@@ -1,4 +1,4 @@
-let items = 10;
+let items = 15;
 let container = document.querySelector(".container");
 for (var i = 1; i <= items; i++) {
   const htmlData = `
