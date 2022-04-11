@@ -1,0 +1,8 @@
+.container{
+    min-width: 20rem;
+    width: 70vh;
+    margin: auto;
+    border: 10px solid red;
+    border-radius: 10px;
+    text-align: center;
+}
